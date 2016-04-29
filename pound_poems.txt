@@ -1,3 +1,5 @@
+1912
+Ripostes
 A Girl
 The tree has entered my hands,
 The sap has ascended my arms,
@@ -13,6 +15,8 @@ And all this is folly to the world.
 
 
 
+1916
+Lustra
 A Pact
 I make a pact with you, Walt Whitman -
 I have detested you long enough.
@@ -27,6 +31,8 @@ Let there be commerce between us.
 
 
 
+1912
+Ripostes
 A Virginal
 No, no! Go from me. I have left her lately.
 I will not spoil my sheath with lesser brightness,   
@@ -46,6 +52,8 @@ As white their bark, so white this lady’s hours.
 
 
 
+1916
+Lustra
 In A Station of the Metro
 The apparition of these faces in the crowd:
 Petals on a wet, black bough.
@@ -53,6 +61,8 @@ Petals on a wet, black bough.
 
 
 
+0
+nan
 Middle Aged
 'Tis but a vague, invarious delight.
 As gold that rains about some buried king.
@@ -81,7 +91,20 @@ To see the brightness of.
 
 
 
-To Whistper, American
+1912
+Ripostes
+An Object
+This thing, that hath a code and not a core, 
+Hath set acquaintance where might be affections, 
+And nothing now 
+Disturbeth his reflections. 
+
+
+
+
+0
+nan
+To Whistler, American
 You also, our first great,
 Had tried all ways;
 Tested and pried and worked in many fashions,
@@ -105,6 +128,8 @@ Show us there's chance at least of winning through.
 
 
 
+1919
+nan
 Envoi
 Go, dumb-born book,
 Tell her that sang me once that song of Lawes:
@@ -136,6 +161,8 @@ All things save Beauty alone.
 
 
 
+1912
+Ripostes
 Portrait d'une Femme
 Your mind and you are our Sargasso Sea,
 London has swept about you this score years
@@ -171,6 +198,8 @@ Yet this is you.
 
 
 
+1916
+Lustra
 The River-Merchant's Wife: A Letter
 While my hair was still cut straight across my forehead
 I played about the front gate, pulling flowers.
@@ -206,6 +235,35 @@ As far as Chō-fū-Sa.
 
 
 
+1916
+Lustra
+Causa 
+I join these words for four people, 
+Some others may overhear them, 
+world, I am sorry for you, 
+You do not know these four people.
+
+
+
+
+1916
+Lustra
+Albatre
+This lady in the white bath-robe which she calls a
+peignoir, 
+Is, for the time being, the mistress of my friend, 
+And the delicate white feet of her little white dog 
+Are not more delicate than she is, 
+Nor would Gautier himself have despised their contrasts 
+in whiteness 
+As she sits in the great chair 
+Between the two indolent candles.
+
+
+
+
+1909
+Exultations
 Alba
 As cool as the pale wet leaves 
 of lily-of-the-valley
@@ -214,6 +272,8 @@ She lay beside me in the dawn.
 
 
 
+1912
+Ripostes
 An Immorality
 Sing we for love and idleness,
 Naught else is worth the having. 
@@ -227,6 +287,8 @@ To pass all men's believing.
 
 
 
+1916
+Lustra
 Ancient Music
 Winter is icummen in, 
 Lhude sing Goddamm. 
@@ -245,6 +307,8 @@ Sing goddamm, sing goddamm, DAMM.
 
 
 
+1909
+Personae
 And The Days Are Not Full Enough
 And the days are not full enough
 And the nights are not full enough
@@ -254,6 +318,8 @@ Not shaking the grass
 
 
 
+0
+nan
 Before Sleep
 The lateral vibrations caress me,
 They leap and caress me,
@@ -278,6 +344,8 @@ I am up to follow thee, Pallas.
 
 
 
+0
+nan
 Cantico del Sole
 The thought of what America would be like
 If the Classics had a wide circulation
@@ -300,6 +368,8 @@ It troubles my sleep.
 
 
 
+0
+nan
 Epilogue
 O Chansons foregoing
 You were a seven days' wonder.
@@ -316,14 +386,18 @@ Are those of a maitre-de-cafe.
 
 
 
+0
+nan
 Fan-Piece, For Her Imperial Lord
 O fan of white silk,
-clear as frost on the grass-blade,
+Clear as frost on the grass-blade,
 You also are laid aside. 
 
 
 
 
+1909
+Exultations
 Francesca
 You came in out of the night
 And there were flowers in your hands,
@@ -341,6 +415,8 @@ Alone.
 
 
 
+0
+nan
 Further Instructions
 Come, my songs, let us express our baser passions.	
 Let us express our envy for the man with a steady job and no worry about the future.	
@@ -365,6 +441,8 @@ Or that there is no caste in this family.
 
 
 
+0
+nan
 Grace Before Song
 Lord God of heaven that with mercy dight
 Th'alternate prayer wheel of the night and light 
@@ -380,6 +458,8 @@ So, bold My Songs, seek ye such death as this.
 
 
 
+0
+nan
 Histrion
 No man hath dared to write this thing as yet, 
 And yet I know, how that the souls of all men great 
@@ -404,6 +484,8 @@ And these, the Masters of the Soul, live on.
 
 
 
+0
+nan
 In Tempore Senectutis
 When I am old
 I will not have you look apart
@@ -434,6 +516,8 @@ When I am old."
 
 
 
+0
+nan
 In the Old Age of the Soul
 I do not choose to dream; there cometh on me 
 Some strange old lust for deeds. 
@@ -453,6 +537,8 @@ So doth he flame again toward valiant doing.
 
 
 
+0
+nan
 Invern
 Earth's winter cometh
 And I being part of all
@@ -474,6 +560,8 @@ Or curl in grass next neath a kindly moon.
 
 
 
+0
+nan
 Ione, Dead the Long Year
 Empty are the ways, 
 Empty are the ways of this land 
@@ -488,6 +576,8 @@ But seems like a person just gone.
 
 
 
+0
+nan
 Ité
 Go, my songs, seek your praise from the young
 and from the intolerant,
@@ -498,6 +588,8 @@ And take you wounds from it gladly.
 
 
 
+1910
+Provenca
 L'Art
 Green arsenic smeared on an egg-white cloth,
 Crushed strawberries! Come, let us feast our eyes.
@@ -505,6 +597,19 @@ Crushed strawberries! Come, let us feast our eyes.
 
 
 
+1909
+Personae
+Tally-O 
+What ho! the wind is up and eloquent. 
+Through all the Winter's halls he crieth Spring. 
+Now will I get me up unto mine own forests 
+And behold their bourgeoning. 
+
+
+
+
+1909
+Personae
 Masks
 These tales of old disguisings, are they not
 Strange myths of souls that found themselves among
@@ -524,6 +629,8 @@ Ponder in silence o'er earth's queynt devyse?
 
 
 
+0
+nan
 Medallion
 Luini in porcelain! 
 The grand piano 
@@ -545,6 +652,8 @@ The eyes turn topaz.
 
 
 
+0
+nan
 Meditatio
 When I carefully consider the curious habits of dogs
 I am compelled to conclude
@@ -555,6 +664,8 @@ I confess, my friend, I am puzzled.
 
 
 
+0
+nan
 Notes for Canto CXX
 I have tried to write Paradise
 Do not move
@@ -568,6 +679,8 @@ what I have made.
 
 
 
+1912
+Ripostes
 Quies
 This is another of our ancient loves.
 Pass and be silent, Rullus, for the day
@@ -577,6 +690,8 @@ Hath lacked a something. 'Twas but marginal
 
 
 
+1916
+Lustra
 Salutation
 O generation of the thoroughly smug
 and thoroughly uncomfortable,
@@ -592,6 +707,8 @@ and do not even own clothing.
 
 
 
+1912
+Ripostes
 Silet
 When I behold how black, immortal ink
 Drips from my deathless pen - ah, well-away!
@@ -611,6 +728,8 @@ To plague to-morrow with a testament!
 
 
 
+0
+nan
 Statement of Being
 I am a grave poetic hen
 That lays poetic eggs
@@ -624,6 +743,8 @@ To make the screed sound human.
 
 
 
+1912
+Ripostes
 Sub-Mare
 It is, and is not, I am sane enough,
 Since you have come this place has hovered round me,
@@ -638,6 +759,8 @@ These things that are familiears of the god.
 
 
 
+0
+nan
 Taking Leave of a Friend
 Blue mountains to the north of the walls,
 White river winding about them;
@@ -652,6 +775,8 @@ as we are departing.
 
 
 
+0
+nan
 Tame Cat
 It rests me to be among beautiful women
 Why should one always lie about such matters?
@@ -664,7 +789,9 @@ Is both stimulating and delightful.
 
 
 
-The Bath-Tub
+1916
+Lustra
+The Bath Tub
 As a bathtub lined with white porcelain, 
 When the hot water gives out or goes tepid, 
 So is the slow cooling of our chivalrous passion, 
@@ -673,6 +800,19 @@ O my much praised but-not-altogether-satisfactory lady.
 
 
 
+1916
+Lustra
+Society 
+The family position was waning, 
+And on this account the little Aurelia, 
+Who had laughed on eighteen summers, 
+Now bears the palsied contact of Phidippus.
+
+
+
+
+1916
+Lustra
 The Encounter
 All the while they were talking the new morality
 Her eyes explored me.
@@ -683,6 +823,8 @@ Of a Japanese paper napkin.
 
 
 
+0
+nan
 The Fault of It
 Some may have blamed us that we cease to speak
 Of things we spoke of in our verses early,
@@ -700,6 +842,8 @@ We may not speak of them, they touch us nearly.
 
 
 
+1916
+Lustra
 The Garden
 Like a skein of loose silk blown against a wall	
 She walks by the railing of a path in Kensington Gardens,	
@@ -717,6 +861,8 @@ will commit that indiscretion.
 
 
 
+1916
+Lustra
 The Garrett
 Come, let us pity those who are better off than we are.
 Come, my friend, and remember
@@ -733,6 +879,8 @@ the hour of waking together.
 
 
 
+0
+nan
 The Lake Isle
 O God, O Venus, O Mercury, patron of thieves, 
 Give me in due time, I beseech you, a little tobacco-shop, 
@@ -755,6 +903,8 @@ where one needs one's brains all the time.
 
 
 
+0
+nan
 The Logical Conclusion
 When earth's last thesis is copied
 From the theses that went before,
@@ -784,6 +934,8 @@ And only the devil shall look.
 
 
 
+1912
+Ripostes
 The Needle
 Come, or the stellar tide will slip away.
 Eastward avoid the hour of its decline,
@@ -804,6 +956,8 @@ Until this course turneth aside.
 
 
 
+1912
+Ripostes
 The Plunge
 I would bathe myself in strangeness:
 These comforts heaped upon me, smother me!
@@ -829,6 +983,8 @@ Alien people!
 
 
 
+0
+nan
 Song in the Manner of Housman
 O woe, woe,
 People are born and die,
@@ -849,6 +1005,8 @@ Oh, Woe, woe, woe, etcetera . . . .
 
 
 
+0
+nan
 The Seeing Eye
 The small dogs look at the big dogs;
 They observe unwieldy dimensions
@@ -864,6 +1022,8 @@ That we find minute observation
 
 
 
+1909
+Exultations
 The Tree
 I stood still and was a tree amid the wood,
 Knowing the truth of things unseen before;
@@ -881,6 +1041,8 @@ That was rank folly to my head before.
 
 
 
+0
+nan
 These Fought in Any Case
 These fought in any case,
 and some believing
@@ -905,6 +1067,8 @@ laughter out of dead bellies.
 
 
 
+1916
+Lustra
 Ts'ai Chi'h
 The petals fall in the fountain,
 the orange-coloured rose-leaves,
@@ -913,6 +1077,8 @@ Their ochre clings to the stone.
 
 
 
+0
+nan
 To the Raphaelite Latinists
 Ye fellowship that sing the woods and spring,
 Poets of joy that sing the day's delight,
@@ -932,6 +1098,33 @@ One wreath from ashes of your songs we twine!
 
 
 
+1916
+Lustra
+Gentildonna
+She passed and left no quiver in the veins, who now
+Moving among the trees, and clinging
+in the air she severed,
+Fanning the grass she walked on then, endures:
+Grey olive leaves beneath a rain-cold sky. 
+
+
+
+
+1916
+Lustra
+April 
+Nywpharum membra disjecta. 
+Three spirits came to me 
+And drew me apart 
+To where the olive boughs 
+Lay stripped upon the ground: 
+Pale carnage beneath bright mist. 
+
+
+
+
+0
+nan
 Nicotine: A Hymn to the Dope
 Goddess of the murmuring courts,
 Nicotine, my Nicotine,
@@ -976,6 +1169,27 @@ Thy thorough-fare.
 
 
 
+1912
+Ripostes
+Francesca 
+You came in out of the night 
+And there were flowers in your hands, 
+Now you will come out of a confusion of people, 
+Out of a turmoil of speech about you. 
+I who have seen you amid the primal things 
+Was angry when they spoke your name 
+In ordinary places. 
+I would that the cool waves might flow over my mind, 
+And that the world should dry as a dead leaf, 
+Or as a dandelion seed-pod and be swept away, 
+So that I might find you again, 
+Alone.
+
+
+
+
+1912
+Ripostes
 The Return
 See, they return; ah, see the tentative	
 Movements, and the slow feet,	
@@ -1001,6 +1215,8 @@ pallid the leash-men!
 
 
 
+0
+nan
 The Summons
 I can not bow to woo thee 
 With honey words and flower kisses 
@@ -1035,6 +1251,8 @@ For we may not tarry.
 
 
 
+0
+nan
 Ezra on the Strike
 Wal, Thanksgivin' do be comin' round.
 With the price of turkeys on the bound,
@@ -1064,6 +1282,8 @@ To meddle with the trust.
 
 
 
+1916
+Lustra
 Villanelle: The Psychological Hour
 I had over prepared the event,
 that much was ominous.
